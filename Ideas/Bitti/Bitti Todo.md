@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] Create Model & Entity for Journal data
 - [ ] Create Model & Entity for Settings data
 - [ ] Journal Screen: Scrollable table horizontally and vertically with sticky rows and columns
+- [ ] Settings Screen: Dark mode toggle
 
 
 ## In Progress
