@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "c4ce8bbc98786f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c6d86251a0c2046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c297e8464da37cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Running notes"
+            }
+          },
+          {
+            "id": "a24bc37d5ee70811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Clean up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clean up"
+            }
+          },
+          {
+            "id": "f4b44d7c0aaa7563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Clean up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clean up"
+            }
+          },
+          {
+            "id": "35d54cde77921674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Running notes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "786855f81c128807",
+    "type": "split",
+    "children": [
+      {
+        "id": "f545b7a755a347eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "583855e022bfb1e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a0469fd7cdb0aca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "157f91617c17db7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ae44a122b5bf40f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba73013ed837ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf89c537085dfec8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flutter/Code generation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Code generation"
+            }
+          },
+          {
+            "id": "08297891bd41b15d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flutter/Code generation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Code generation"
+            }
+          },
+          {
+            "id": "d642b1cab9a49321",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e3fdd6e5261fe0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flutter/Code generation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Code generation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35d54cde77921674",
+  "lastOpenFiles": [
+    "README.md",
+    "Flutter/Code generation.md",
+    "Git/Clean up.md",
+    "Running notes.md",
+    "Flutter.md",
+    "Flutter",
+    "Git"
+  ]
+}
