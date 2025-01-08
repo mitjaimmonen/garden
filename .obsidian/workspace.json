@@ -53,14 +53,12 @@
             "id": "35d54cde77921674",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Running notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Ideas/Bitti.md"
               },
-              "icon": "lucide-file",
-              "title": "Running notes"
+              "icon": "excalidraw-icon",
+              "title": "Bitti"
             }
           }
         ],
@@ -202,15 +200,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "35d54cde77921674",
   "lastOpenFiles": [
-    "README.md",
-    "Flutter/Code generation.md",
-    "Git/Clean up.md",
     "Running notes.md",
+    "README.md",
+    "Ideas/Bitti.md",
+    "Git/Clean up.md",
+    "Flutter/Code generation.md",
+    "Ideas",
+    "Flutter/Untitled.md",
+    "Flutter/Drawing 2025-01-08 12.23.50.excalidraw.md",
+    "--- tag asd.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-01-08 12.15.40.excalidraw.md",
+    "Vue",
     "Flutter.md",
     "Flutter",
     "Git"
