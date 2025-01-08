@@ -1,3 +1,4 @@
+# Clean up
 ##### Clean local branches that have been deleted from remote (merged and such):
 
 ```

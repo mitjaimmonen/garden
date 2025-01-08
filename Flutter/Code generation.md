@@ -1,3 +1,5 @@
+# Code Generation
+
 #### Place generated code in sub-folders:
 
 `build.yaml`
