@@ -11,12 +11,14 @@
             "id": "6f5c8aae4661710d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ideas/Bitti/Bitti UI UX.md"
+                "file": "Ideas/Bitti/Bitti notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Bitti UI UX"
+              "icon": "lucide-file",
+              "title": "Bitti notes"
             }
           }
         ]
@@ -176,13 +178,13 @@
   "active": "6f5c8aae4661710d",
   "lastOpenFiles": [
     "Ideas/Bitti/Bitti Todo.md",
-    "Ideas/Bitti/Bitti notes.md",
     "Ideas/Bitti/Bitti UI UX.md",
+    "Ideas/Bitti/Bitti notes.md",
+    "Git/Clean up.md",
+    "Flutter/Code generation.md",
     "README.md",
     "Running notes.md",
-    "Git/Clean up.md",
     "Ideas/Bitti",
-    "Flutter/Code generation.md",
     "Ideas",
     "Flutter/Untitled.md",
     "Flutter/Drawing 2025-01-08 12.23.50.excalidraw.md",
