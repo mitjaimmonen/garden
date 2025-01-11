@@ -2,7 +2,138 @@
 
 This document contains ideas that I have had over time, such as company ideas, new apps, games.
 
-Generally each idea has some basic info table about what it is and a description/overview.
+Generally each idea has a basic info table about what it is and a description/overview.
+
+---
+
+## Blackout
+
+| Key      | Value                   |
+| -------- | ----------------------- |
+| Type     | Company                 |
+| Platform | Store for e-ink devices |
+|  -       | -                       |
+
+### Overview
+
+Sell tablets and phones with e-ink and traditional features, physical keyboards and note taking devices.
+
+In Finland there are not any specialized resellers for this stuff and it is a healthy technology. Maybe the store could sell all kinds of privacy friendly, user friendly and healthy tech that improves one's life in a different way from the usual.
+
+---
+
+## Automation adventure
+
+| Key      | Value                  |
+| -------- | ---------------------- |
+| Type     | Game                   |
+| Platform | Desktop / Game Console |
+| -        | -                 |
+
+### Overview
+
+Automation & resource gathering to fix some villages issues or in order to build a blimp or something in order to advance to some place else. New areas with different challenges, but maybe by bringing things from earlier locations the new places become easier to automate.
+
+Cant bring everything but jump-starting productions is easier
+
+---
+
+## Termistö
+
+| Key      | Value         |
+| -------- | ------------- |
+| Type     | App / Website |
+| Platform | Mobile / Web  |
+|  -       | -             |
+
+### Overview
+
+Application or site to quickly see an overview of terms used in a topic.
+
+For example when talking about bike maintenance, what are different parts called:
+- Pinnat
+- Takapakka
+- Etuvaihtaja
+- Levyjarru
+
+The terms would be attached to a picture.
+
+---
+
+## Keep talking and nobody explodes physical bomb simulator
+
+| Key       | Value             |
+| --------- | ----------------- |
+| Type      | Game              |
+| Platform  | Physical          |
+| Framework | Raspberry or such |
+
+### Overview
+
+matrix display modules, button modules, dial modules, passcode modules
+detachable and automatically configuring
+16 module slots, displays (e-ink) on sides, batteries under automatic hatches that open according to amount of batteries in the in-game bomb
+
+
+---
+
+## Priva Puntti (in Finnish)
+
+| Key       | Value  |
+| --------- | ------ |
+| Type      | Yritys |
+| Platform  | -      |
+| Framework | -      |
+
+### Yleistä
+
+Yksityinen, rauhallinen kuntosali
+Punttihuoneita (punttilaitteita, painoja)
+Lämmittelyhuoneita (Pyörää, soutulaitetta, juoksumattoa)
+Tatami, venyttely huoneita (jooga juttuja, jumppapalloa, tyynyjä jne)
+Mixed huoneita
+
+Kaksi jäsenyystapaa:
+- Säännöllinen aikataulutus, tietty huone&tunti viikossa
+- Vapaa aikataulutus, valitse vapaa huone max viikko etuajassa
+
+---
+
+## Ardu Arcade
+
+| Key        | Value   |
+| ---------- | ------- |
+| Type       | Company |
+| Platform   | -       |
+|  Framework | -       |
+
+## Overview
+
+Arcade which has all the games self-built and sourced from the community.
+There is a workshop area in the back where new games can be made with all sorts of parts that can interact with microcontrollers and single board computers.
+
+People could submit their arcade games to rentable slots in the arcade similar to second hand shops (kirpparit). 
+The workshop is usable for anyone with a subscription to the place, and sourcing of the needed parts is made easy in a way that the company will order everything requested.
+
+---
+
+## Brain dance
+
+| Key       | Value                    |
+| --------- | ------------------------ |
+| Type      | Utility                  |
+| Platform  | Brain Computer Interface |
+| Framework |                          |
+
+### Overview
+
+We have the capability to use BCI to learn how the brain reacts to different images and using enough of this data, we can draw pictures of what people are thinking.
+
+Once BCI becomes mainstream, there should be an app where you can record a video of your visual thoughts, such as directions from a train station to home, and then send the video to someone else. They could then watch this video in 2D on some head-integrated display.
+
+When we can translate thoughts into a universal computer language, we can play thoughts inside other people's heads by translating the content into the recipient’s brain format and stimulate the areas of the brain to draw these visuals. “Brain dance” as cyberpunk calls it.
+
+[https://synchron.com/technology](https://synchron.com/technology)
 
 ---
 
@@ -16,7 +147,13 @@ Generally each idea has some basic info table about what it is and a description
 
 ### Overview
 
-A clonk-like cell sim, more ideas here: [https://docs.google.com/document/d/1hgHypYQfRlVETCWg2wXH3gd-ymM-iloDY7l1HUmFYjo/edit?usp=sharing](https://docs.google.com/document/d/1hgHypYQfRlVETCWg2wXH3gd-ymM-iloDY7l1HUmFYjo/edit?usp=sharing)
+**Idea:**
+- Mining & building similar to Clonk
+- AI to navigate home from a mine
+- Control multiple characters, possibly
+- Grid Cell / Pixel  physics simulation, simplified Noita
+- Dynamic tilemapping, meaning the art updates with seamless cell styling along with the cells / “pixels” updating every frame
+- Automatic collider generation, cells turn into slopes, so if there are dynamic objects thrown at a wall, it does not detect the normals as 4-directional, but more like splines
 
 ---
 

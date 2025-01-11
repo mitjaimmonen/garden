@@ -1,8 +1,8 @@
 # Bitti plan  
   
 - Main journal view:  
-  - Columns for each topic  
-  - Rows for each day  
+	- Columns for each topic  
+	  - Rows for each day  
 - Topic types  
   - Note: Create diary entries and notes for each day  
   - Boolean: Track habits with simple yes/no answers  
