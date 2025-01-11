@@ -1,4 +1,4 @@
-# The Plan  
+# Bitti plan  
   
 - Main journal view:  
   - Columns for each topic  
