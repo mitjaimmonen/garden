@@ -1,9 +1,9 @@
-# notes
+# garden
 
-Ramblings in markdown
+Ramblings in markdown: plans, ideas, todos, interesting things, anything
 
 Notes are created with Obsidian, using community plugins: 
 
-- Excalidraw: UI Design
+- Excalidraw: UX Design
 - Kanban: Project Management
 - Git: Automatic backups 
