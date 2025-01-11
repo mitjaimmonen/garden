@@ -11,10 +11,12 @@
             "id": "340a79b7b8507616",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Ideas/Bitti/Bitti UX.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Bitti UX"
             }
           }
         ]
@@ -172,7 +174,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "487489c59333e634",
+  "active": "340a79b7b8507616",
   "lastOpenFiles": [
     "Ideas/Bitti/Bitti UX.md",
     "Ideas/Bitti/Bitti Todo.md",
