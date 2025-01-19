@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1eda0b140aeecef2",
+        "id": "90a02284cc7b1e2e",
         "type": "tabs",
         "children": [
           {
-            "id": "6f5c8aae4661710d",
+            "id": "340a79b7b8507616",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Ideas/Bitti/Bitti Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Ideas/Bitti/Bitti UX.md"
               },
-              "icon": "lucide-trello",
-              "title": "Bitti Todo"
+              "icon": "excalidraw-icon",
+              "title": "Bitti UX"
             }
           }
         ]
@@ -181,19 +173,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6f5c8aae4661710d",
+  "active": "340a79b7b8507616",
   "lastOpenFiles": [
-    "Ideas/Bitti/Bitti UX.md",
-    "Ideas/One Pagers.md",
-    "Ideas/Bitti/Bitti UI UX.md",
+    "Flutter/Code generation.md",
     "Ideas/Tyyni/Tyyni Todo.md",
     "Ideas/Tyyni/Tyyni plan.md",
-    "Ideas/Tyyni",
-    "Ideas/Bitti/Bitti plan.md",
-    "Ideas/Bitti/Bitti notes.md",
+    "Ideas/Bitti/Bitti UX.md",
     "Ideas/Bitti/Bitti Todo.md",
+    "Ideas/Bitti/Bitti notes.md",
+    "Ideas/Bitti/Bitti plan.md",
     "Git/Clean up.md",
-    "Flutter/Code generation.md",
+    "Ideas/One Pagers.md",
+    "Ideas/Tyyni/Tyyni notes.md",
+    "Ideas/Tyyni",
     "README.md",
     "Running notes.md",
     "Ideas/Bitti",
