@@ -11,12 +11,20 @@
             "id": "340a79b7b8507616",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Ideas/Bitti/Bitti UX.md"
+                "file": "Ideas/Bitti/Bitti Todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Bitti UX"
+              "icon": "lucide-trello",
+              "title": "Bitti Todo"
             }
           }
         ]
@@ -175,19 +183,19 @@
   },
   "active": "340a79b7b8507616",
   "lastOpenFiles": [
-    "Flutter/Code generation.md",
-    "Ideas/Tyyni/Tyyni Todo.md",
+    "Ideas/Bitti/Bitti plan.md",
+    "Ideas/Bitti/Bitti notes.md",
     "Ideas/Tyyni/Tyyni plan.md",
+    "Ideas/Tyyni/Tyyni Todo.md",
+    "Running notes.md",
+    "README.md",
+    "Git/Clean up.md",
+    "Flutter/Code generation.md",
     "Ideas/Bitti/Bitti UX.md",
     "Ideas/Bitti/Bitti Todo.md",
-    "Ideas/Bitti/Bitti notes.md",
-    "Ideas/Bitti/Bitti plan.md",
-    "Git/Clean up.md",
     "Ideas/One Pagers.md",
     "Ideas/Tyyni/Tyyni notes.md",
     "Ideas/Tyyni",
-    "README.md",
-    "Running notes.md",
     "Ideas/Bitti",
     "Ideas",
     "Flutter/Untitled.md",
