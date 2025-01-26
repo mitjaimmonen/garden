@@ -11,12 +11,14 @@
             "id": "cf2bdcb6905aa318",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ideas/Bitti/Bitti UX.md"
+                "file": "Ideas/Bitti/Features/Backups.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Bitti UX"
+              "icon": "lucide-file",
+              "title": "Backups"
             }
           }
         ]
@@ -175,6 +177,10 @@
   },
   "active": "cf2bdcb6905aa318",
   "lastOpenFiles": [
+    "Ideas/Bitti/Features/Icon Picker.md",
+    "Ideas/Bitti/Features/Backups.md",
+    "Ideas/Bitti/Bitti UX.md",
+    "Ideas/Bitti/Features",
     "Ideas/Bitti/Bitti notes.md",
     "Ideas/Bitti/Bitti plan.md",
     "Ideas/Tyyni/Tyyni plan.md",
@@ -184,7 +190,6 @@
     "README.md",
     "Git/Clean up.md",
     "Flutter/Code generation.md",
-    "Ideas/Bitti/Bitti UX.md",
     "Ideas/One Pagers.md",
     "Ideas/Tyyni/Tyyni notes.md",
     "Ideas/Tyyni",
