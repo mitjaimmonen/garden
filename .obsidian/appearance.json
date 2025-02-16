@@ -1,4 +1,5 @@
 {
   "showViewHeader": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "interfaceFontFamily": "Belanosima,Helvetica"
 }

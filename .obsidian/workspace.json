@@ -11,12 +11,14 @@
             "id": "cf2bdcb6905aa318",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Ideas/Bitti/Bitti UX.md"
+                "file": "Thoughts/fi/Puutarha.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Bitti UX"
+              "icon": "lucide-file",
+              "title": "Puutarha"
             }
           }
         ]
@@ -171,29 +173,34 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "cf2bdcb6905aa318",
+  "active": "583855e022bfb1e3",
   "lastOpenFiles": [
-    "Ideas/Bitti/Features/Icon Picker.md",
-    "Ideas/Bitti/Features/Backups.md",
-    "Ideas/Bitti/Bitti UX.md",
-    "Ideas/Bitti/Features",
-    "Ideas/Bitti/Bitti notes.md",
-    "Ideas/Bitti/Bitti plan.md",
-    "Ideas/Tyyni/Tyyni plan.md",
+    "Running notes.md",
+    "Thoughts/fi/Puutarha.md",
+    "Thoughts/fi",
+    "Thoughts",
+    "README.md",
+    "Dev",
+    "Dev/Ideas/Bitti/Bitti UX.md",
+    "Dev/Ideas/Bitti/Features/Icon Picker.md",
+    "Dev/Ideas/Bitti/Features/Backups.md",
+    "Dev/Ideas/Bitti/Features",
+    "Dev/Ideas/Bitti/Bitti notes.md",
+    "Dev/Ideas/Bitti/Bitti plan.md",
+    "Dev/Ideas/Tyyni/Tyyni plan.md",
     "Ideas/Tyyni/Tyyni Todo.md",
     "Ideas/Bitti/Bitti Todo.md",
-    "Running notes.md",
-    "README.md",
-    "Git/Clean up.md",
-    "Flutter/Code generation.md",
-    "Ideas/One Pagers.md",
+    "Dev/Git/Clean up.md",
+    "Dev/Flutter/Code generation.md",
+    "Dev/Ideas/One Pagers.md",
     "Ideas/Tyyni/Tyyni notes.md",
-    "Ideas/Tyyni",
-    "Ideas/Bitti",
-    "Ideas",
+    "Dev/Ideas/Tyyni",
+    "Dev/Ideas/Bitti",
+    "Dev/Ideas",
     "Flutter/Untitled.md",
     "Flutter/Drawing 2025-01-08 12.23.50.excalidraw.md",
     "--- tag asd.md",
@@ -201,7 +208,6 @@
     "Excalidraw/Drawing 2025-01-08 12.15.40.excalidraw.md",
     "Vue",
     "Flutter.md",
-    "Flutter",
-    "Git"
+    "Dev/Flutter"
   ]
 }
