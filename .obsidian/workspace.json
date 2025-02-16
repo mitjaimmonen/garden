@@ -193,19 +193,57 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3a40b43d6ee70253",
+  "floating": {
+    "id": "0a6927066d09f2d0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "002723923fa6ddee",
+        "type": "window",
+        "children": [
+          {
+            "id": "a1e29f51e6246cd1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02f6e40c881eac83",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "en/Dev/Ideas/Bitti/Bitti UX.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Bitti UX"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 573,
+        "y": 612,
+        "width": 902,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "02f6e40c881eac83",
   "lastOpenFiles": [
     "en/Dev/Ideas/Bitti/Bitti plan.md",
+    "en/Dev/Ideas/Bitti/Bitti notes.md",
+    "en/Dev/Git/Clean up.md",
     "en/Dev/Ideas/One Pagers.md",
+    "New folder",
     "en/Dev/Ideas/Tyyni/Tyyni plan.md",
     "en/Dev/Ideas/Bitti/Bitti UX.md",
-    "en/Dev/Ideas/Bitti/Bitti notes.md",
     "en/Dev/Ideas/Bitti/Features/Icon Picker.md",
     "en/Dev/Ideas/Bitti/Features/Backups.md",
     "index.md",
     "fi/Ajatuksia/Puutarha.md",
     "fi/Ajatuksia/Linkkiverkko.md",
-    "en/Dev/Git/Clean up.md",
     "en/Dev/Flutter/Code generation.md",
     "Untitled.md",
     "fi",
@@ -213,7 +251,6 @@
     "README.md",
     "Running notes.md",
     "dist",
-    "New folder",
     "Ajatuksia/fi",
     "fi/Ajatuksia",
     "en/Dev",
