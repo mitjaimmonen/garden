@@ -8,11 +8,10 @@ Generally each idea has a basic info table about what it is and a description/ov
 
 ## Blackout
 
-| Key      | Value                   |
-| -------- | ----------------------- |
-| Type     | Company                 |
-| Platform | Store for e-ink devices |
-|  -       | -                       |
+| Key      | Value                  |
+| -------- | ---------------------- |
+| Type     | Company                |
+| Platform | Shop for e-ink devices |
 
 ### Overview
 
@@ -114,26 +113,6 @@ There is a workshop area in the back where new games can be made with all sorts 
 
 People could submit their arcade games to rentable slots in the arcade similar to second hand shops (kirpparit). 
 The workshop is usable for anyone with a subscription to the place, and sourcing of the needed parts is made easy in a way that the company will order everything requested.
-
----
-
-## Brain dance
-
-| Key       | Value                    |
-| --------- | ------------------------ |
-| Type      | Utility                  |
-| Platform  | Brain Computer Interface |
-| Framework |                          |
-
-### Overview
-
-We have the capability to use BCI to learn how the brain reacts to different images and using enough of this data, we can draw pictures of what people are thinking.
-
-Once BCI becomes mainstream, there should be an app where you can record a video of your visual thoughts, such as directions from a train station to home, and then send the video to someone else. They could then watch this video in 2D on some head-integrated display.
-
-When we can translate thoughts into a universal computer language, we can play thoughts inside other people's heads by translating the content into the recipient’s brain format and stimulate the areas of the brain to draw these visuals. “Brain dance” as cyberpunk calls it.
-
-[https://synchron.com/technology](https://synchron.com/technology)
 
 ---
 
