@@ -4,14 +4,9 @@ Tended: 2025-02-16
 ---
 # Puutarha
 
-*Istutettu: `= this.Planted`*
-*Hoidettu: `= this.Tended`*
-
----
-
 Puutarha viittaa termiin "digital garden". Tämä on nettisivu mitä pikkuhiljaa täydennän ja hoidan, vähän kuin puutarhaa. Sivustolta löytyy kaikkea satunnaista englanniksi ja suomeksi.
 
-Kirjoitan tänne paljon itseäni varten, mutta myös siinä toivossa että joku satunnainen ihminen joskus
+Kirjoitan tänne paljolti itseäni varten, mutta myös siinä toivossa että joku satunnainen ihminen joskus eksyy tänne ja löytää jotain viihdyttävää tai mielenkiintoista.
 
 Yleisesti kaikki produktiivisuuteen ja devailuun liittyvä on englanniksi ja vapaamuotoisemmat ajatukset suomeksi.
 
