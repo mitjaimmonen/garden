@@ -2,5 +2,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-kanban",
-  "webpage-html-export"
+  "webpage-html-export",
+  "update-time-on-edit",
+  "dataview"
 ]

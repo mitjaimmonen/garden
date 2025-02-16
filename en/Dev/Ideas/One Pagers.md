@@ -219,19 +219,18 @@ Game where you fly helicopters, airplanes etc to bomb and shoot each other
 
 ### Overview
 
-[[Tyyni plan]]
-
 Gratitude journal. Every day you fill a page, a peaceful image gets a new element or sticker drawn on it, 365 iterations. A few different images for different themes.
-Possibility to use offline, but also possible to back up or save a file of the journal
-Daily notifications, lightweight such as “Hope you had a good day!”
-Show stats, avoid competitive stats but maybe show the amount of days journaled
-Last chance journaling - Still remember what went down yesterday, fill it out
-(MVP) Mini journal - Fill one thing per day
-Extensive journal, multiple entries & some measurements/sliders about daily mood. Overview stats for the daily measurements - avoid short-term graphs
-Allow editing up to yesterday
-(MVP) Journal history
-Add photos to journal entries (show history list with the photos)
-Place stickers/element on the image yourself
+
+- Possibility to use offline, but also possible to back up or save a file of the journal
+- Daily notifications, lightweight such as “Hope you had a good day!”
+- Show stats, avoid competitive stats but maybe show the amount of days journaled
+- Last chance journaling - Still remember what went down yesterday, fill it out
+- Mini journal - Fill one thing per day
+- Extensive journal, multiple entries & some measurements/sliders about daily mood. Overview stats for the daily measurements - avoid short-term graphs
+- Allow editing up to yesterday
+- Journal history
+- Add photos to journal entries (show history list with the photos)
+- Place stickers/elements on the images
 
 ---
 

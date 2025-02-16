@@ -1,5 +1,6 @@
 # Code Generation
 
+Flutter is a boilerplate heavy framework, so a lot of code needs to be generated into separate files. To keep the project structured, the generated files can be placed in their own folders and more easily gitignored as well.
 #### Place generated code in sub-folders:
 
 `build.yaml`
