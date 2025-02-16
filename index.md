@@ -4,6 +4,11 @@ Tended: 2025-02-16
 ---
 # Puutarha
 
+*Istutettu: `= this.Planted`*
+*Hoidettu: `= this.Tended`*
+
+---
+
 Tältä sivustolta löytyy kaikkea satunnaista englanniksi ja suomeksi.
 
 Yleisesti kaikki produktiivisuuteen ja devailuun liittyvä on englanniksi ja vapaamuotoisemmat ajatukset suomeksi.

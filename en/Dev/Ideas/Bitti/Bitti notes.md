@@ -1,4 +1,14 @@
+---
+Planted: 2025-01-14
+Tended: 2025-02-16
+---
 # Bitti notes
+
+*Planted: `= this.Planted`*
+*Tended: `= this.Tended`*
+
+---
+
 
 repositories should support both local storage and firestore.
 For FDroid version, firebase code should not exist at all.

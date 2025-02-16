@@ -1,4 +1,14 @@
+---
+Planted: 2025-01-14
+Tended: 2025-02-16
+---
 # Bitti plan  
+
+*Planted: `= this.Planted`*
+*Tended: `= this.Tended`*
+
+---
+
 
 - Main journal view:  
 	- Columns for each topic  

@@ -1,4 +1,14 @@
+---
+Planted: 2025-01-14
+Tended: 2025-02-16
+---
 # One Pagers
+
+*Planted: `= this.Planted`*
+*Tended: `= this.Tended`*
+
+---
+
 
 This document contains ideas that I have had over time, such as company ideas, new apps, games.
 
