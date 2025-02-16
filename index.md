@@ -9,13 +9,13 @@ Tended: 2025-02-16
 
 ---
 
-Tältä sivustolta löytyy kaikkea satunnaista englanniksi ja suomeksi.
+Puutarha viittaa termiin "digital garden". Tämä on nettisivu mitä pikkuhiljaa täydennän ja hoidan, vähän kuin puutarhaa. Sivustolta löytyy kaikkea satunnaista englanniksi ja suomeksi.
 
 Yleisesti kaikki produktiivisuuteen ja devailuun liittyvä on englanniksi ja vapaamuotoisemmat ajatukset suomeksi.
 
 #### Aloita esimerkiksi näistä:
 
-Ajatuksia: [[Puutarha]]:
+Ajatuksia: [[Puutarha]]
 Ajatuksia: [[Linkkiverkko]]
 
 ---
