@@ -204,50 +204,16 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "0a6927066d09f2d0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a15f1e1df25388ad",
-        "type": "window",
-        "children": [
-          {
-            "id": "195d79cad1e18911",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1b9262d14dbb08e4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "fi/Ajatuksia/Puutarha.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Puutarha"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 573,
-        "y": 612,
-        "width": 902,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1b9262d14dbb08e4",
+  "active": "16874c801657c00a",
   "lastOpenFiles": [
+    "fi/Listat/Videolista.md",
+    "fi/Listat/Lukulista.md",
+    "fi/Listat/Linkkiverkko.md",
+    "fi/Ajatuksia/Puutarha.md",
     "en/Dev/Ideas/One Pagers.md",
     "en/Dev/Ideas/Bitti/Bitti UX.md",
     "en/Dev/Ideas/Bitti/Bitti plan.md",
@@ -255,10 +221,6 @@
     "en/Dev/Git/Hooks.md",
     "en/Dev/Git/Clean up.md",
     "index.md",
-    "fi/Listat/Videolista.md",
-    "fi/Listat/Lukulista.md",
-    "fi/Ajatuksia/Puutarha.md",
-    "fi/Listat/Linkkiverkko.md",
     "en/Dev/Flutter/Code generation.md",
     "fi/Listat",
     "New folder",
