@@ -10,8 +10,8 @@ Tended: 2025-02-16
 ---
 
 
-repositories should support both local storage and firestore.
-For FDroid version, firebase code should not exist at all.
+repositories should support both local storage and remote storage.
+For FDroid version, firebase code should not exist at all, if otherwise in use.
 
 For each data source, two implementations (firestore, localstorage)
 
