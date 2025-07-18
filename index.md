@@ -12,10 +12,8 @@ Yleisesti kaikki produktiivisuuteen ja devailuun liittyvä on englanniksi ja vap
 
 #### Aloita esimerkiksi näistä:
 
-Ajatuksia: [[Puutarha]]
-Ajatuksia: [[Linkkiverkko]]
+[[Linkkiverkko]]
 
----
 
 # Garden
 

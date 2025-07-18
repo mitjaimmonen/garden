@@ -297,3 +297,12 @@ A tracker app which tracks how much you spend time outside, in national parks, w
 Tracked distances and times become some sort of in-game resource.
 
 Build a game around that…
+
+
+
+# Snack tracker
+
+Weekly or monthly allowance app.
+
+
+
