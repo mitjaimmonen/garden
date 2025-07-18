@@ -1,5 +1,7 @@
 {
   "showViewHeader": false,
   "showRibbon": true,
-  "interfaceFontFamily": "Belanosima,Helvetica"
+  "interfaceFontFamily": "Belanosima,Helvetica",
+  "accentColor": "#000000",
+  "cssTheme": ""
 }

@@ -306,3 +306,6 @@ Weekly or monthly allowance app.
 
 
 
+# USB Hub
+
+Build a USB hub that actually works. The hub would support 2 screens, power pass-through and more. Additional usb-c slots too.

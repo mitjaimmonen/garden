@@ -3,5 +3,7 @@
   "promptDelete": false,
   "propertiesInDocument": "visible",
   "showLineNumber": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "spellcheck": false,
+  "autoConvertHtml": true
 }
