@@ -86,7 +86,7 @@ detachable and automatically configuring
 
 ---
 
-## Priva Puntti (in Finnish)
+## Priva Puntti
 
 | Key       | Value  |
 | --------- | ------ |
@@ -300,12 +300,23 @@ Build a game around that…
 
 
 
-# Snack tracker
+---
+
+## Snack tracker
 
 Weekly or monthly allowance app.
 
 
 
-# USB Hub
+---
+
+## USB Hub
 
 Build a USB hub that actually works. The hub would support 2 screens, power pass-through and more. Additional usb-c slots too.
+
+
+---
+
+## Simple Camera
+
+Camera that has no ui by default and works with gestures.

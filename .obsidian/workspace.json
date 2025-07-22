@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fi/Ajatuksia/Puutarha.md",
+                "file": "en/Dev/Ideas/One Pagers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Puutarha"
+              "title": "One Pagers"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "cf2bdcb6905aa318",
   "lastOpenFiles": [
-    "fi/Listat/Lukulista.md",
     "fi/Ajatuksia/Puutarha.md",
+    "Excalidraw/Drawing 2025-07-18 12.30.04.excalidraw.md",
+    "Excalidraw",
+    "fi/Listat/Lukulista.md",
     "index.md",
     "fi/Listat/Videolista.md",
     "fi/Listat/Linkkiverkko.md",
@@ -208,7 +210,6 @@
     "Ideas/Tyyni/Tyyni Todo.md",
     "Ideas/Bitti/Bitti Todo.md",
     "Ideas/Tyyni/Tyyni notes.md",
-    "en/Dev/Ideas/Tyyni",
     "Flutter/Untitled.md",
     "Flutter/Drawing 2025-01-08 12.23.50.excalidraw.md",
     "--- tag asd.md",
