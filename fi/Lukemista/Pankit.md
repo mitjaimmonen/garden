@@ -33,8 +33,12 @@ Hänen tutkimuksensa siitä miten pankit toimivat ja miten esimerkiksi Kansainv�
 **Miksi paikallispankit ovat tärkeitä talouskasvulle? Haastattelu Richard Wernerin ja pankkiöyskyrin kanssa:**
 https://www.youtube.com/watch?v=EC0G7pY4wRE
 
-**Voiko pankit luoda rahaa tyhjästä? (paikallispankit jotka eivät ole keskuspankkeja) | kyllä:**
+Pankit pyritään näyttämään vain "välikäsinä", jotka välittävät rahan siirtymän, vaikka todellisuudessa niillä on päävastuu talouden ylläpidossa. Pienet pankit ovat välttämättömiä, jos halutaan että pienet yritykset saisivat lainoja.
+
+**Voiko pankit luoda rahaa tyhjästä? (paikallispankit jotka eivät ole keskuspankkeja):**
 https://www.sciencedirect.com/science/article/pii/S1057521914001070?via%3Dihub
+
+Artikkeli käy läpi kolme erilaista teoriaa siitä miten pankit toimivat ja miten raha luodaan. Tutkijat tekevät testin paikallispankin kanssa jossa luodaan laina ja katsotaan mistä raha tulee pankkitilille. Lopputulos on se että vaikka pankki on paikallispankki, jolla ei ole suoraa vaikutusvaltaa rahapolitiikkaan, valuutan luominen tapahtuu ns. tyhjästä.
 
 **Princes of the yen, pikkudokkari:**
 https://youtu.be/p5Ac7ap_MAY?feature=shared
