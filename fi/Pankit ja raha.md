@@ -70,8 +70,6 @@ Peruvian Bull
 *Youtube: Garys Economics*
 *Gary Stevenson*
 
-*Kirja: The age of surveillance capitalism*
-*Shoshana Zuboff*
 
 ---
 
