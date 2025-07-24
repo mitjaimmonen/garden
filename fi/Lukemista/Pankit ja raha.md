@@ -98,4 +98,8 @@ Kun kansalaisille riittää työpaikkoja ja yrityksille riittää rahaa, palkat 
 
 ## All my homies hate digitaalinen keskuspankkiraha
 
-Jo vuodesta 2021 kun kiinnostuin lukemaan enemmän kapitalismin ja rahan toiminnasta maailman talouksissa
+Jo vuodesta 2021 kun kiinnostuin lukemaan enemmän kapitalismin ja rahan toiminnasta maailman talouksissa, opin mitä on digitaalinen keskuspankkiraha eli CBDC, esimerkiksi digi euro ja digi dollari. Nykyään käytämme digitaalista rahaa, eli BDC:tä, jo lähes kaikkeen kaupankäyntiin, kun tilillämme näkyy vaan numeroita jotka muuttuu kun korttia näyttää kassalla. Vaikka käytämmekin digitaalista rahaa, meillä on täysi kontrolli omaan rahakäyttäytymiseemme. Voimme edelleen muuttaa rahan fyysiseksi, jolloin digitaalinen jalanjälki katkeaa, voimme myös siirtyä toiseen valuutta- tai sijoitusmuotoon kuten bitcoiniin.
+
+Kun siirrymme pikkuhiljaa kohti digi euroa, ensin luodaan digitaalinen identiteetti kaikille kansalaisille, joka tarkoittaa sitä että olemme tunnistettavissa ja seurattavissa kaikkialla fyysisesti ja digitaalisesti jättäen tarkan digitaalisen jalanjäljen tekemisistämme ja omistuksistamme. Kun omistuksemme on täysin digitalisoitu, voidaan siirtyä käyttämään digitaalista keskuspankkirahaa, jossa täysi kontrolli siirtyy kansalaiselta keskuspankille, eli meidän tapauksessa EKP:lle.
+
+Keskuspankki voi määrätä mielivaltaisesti mihin rahaa tulisi käyttää ja milloin sitä saa tai kuuluu säästää. Negatiivinen korko on mahdollista tapauksissa kun halutaan kansalaisten kuluttavan säästöjään pois. Ei ole mahdollisuutta enää suojautua kontrollilta siirtymällä toiseen valuuttaan tai valuuttamuotoon kuten seteleihin, sillä keskuspankki voi lukea sen terroristiseksi tai epäturvalliseksi toiminnaksi ja estää rahan siirron. Euroopan keskuspankki on jo nyt maailman läpinäkym
