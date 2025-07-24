@@ -113,3 +113,12 @@ Keskuspankki voi määrätä mielivaltaisesti mihin rahaa tulisi käyttää ja m
 Tietenkin kaikki me olemme riittävän hyväuskoisia että emme voi kuvitella EU:lla olevan totalitaarista tulevaisuutta, mutta digieuro antaa sille tulevaisuudelle mahdollisuuden. Ei voida tietää mitä oikeasti tapahtuu, mutta itse en haluaisi edes mahdollisuutta tällaiselle tulevaisuudelle.
 
 Hiljattain tapahtunut hyvä esimerkki siitä mitä tällainen kontrolli voi tuoda tullessaan on Visan ja Mastercardin valta päättää mitä siirtoja heidän maksuvälityksen kautta sallitaan. Steam ja OnlyFans ovat kokeneet tämän kontrollin. Steam joutui tänä kesänä poistamaan useita pornografisia pelejä kokonaan alustaltaan, sillä Visa ja Mastercard uhkasivat estää maksunvälityksen koko Steam-alustalla jos pelejä ei poistettaisi.
+
+
+## Laki luottolaitostoiminnasta
+
+Vaikuttaa suhteellisen yksiselitteiseltä, että vaikka olemmekin EU:ssa jossa rahapolitiikkaa määrittää vahvasti EKP, on suomalaisilla luottolaitoksilla nykyisellään vielä lupa laskea rahaa liikkeelle.
+##### 1 §Talletuspankille sallittu liiketoiminta:
+Kohta 6: Sähköisen rahan liikkeeseenlasku, siihen liittyvä tietojenkäsittely ja tietojen tallentaminen sähköiselle tietovälineelle muun yrityksen lukuun;
+
+https://finlex.fi/fi/lainsaadanto/2014/610?language=fin
