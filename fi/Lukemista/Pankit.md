@@ -32,7 +32,9 @@ Dokumentti käy läpi kuinka IMF pyrkii estämään Itä-Aasian valtioiden vahva
 
 Se kuinka Japanissa luotiin vahva kasvukausi, oli yksinomaan pankkijärjestelyn ansiota. Japanin keskuspankki määritti pienemmille pankeille kuinka paljon lainaa on tarjottava. Pienemmät pankit taas niitä pienemmille, kunnes lopputulos oli että keskuspankin määräämä lainojen määrä toteutui mahdollisimman tarkasti. Tämän lisäksi, keskuspankki määräsi mille sektoreille lainaa tulee myöntää. Kun lainaa myönnettiin ainoastaan tietynlaisiin produktiivisiin tarkoituksiin, talous kasvoi niin vahvasti, että Japanista tuli vientimaa, samalla kun kansalaisten elintaso pidettiin toissijaisena.
 
-Kun 80-luvulla alkoi ns. talouskupla, kansalaise
+Kun 80-luvulla alkoi ns. talouskupla, kansalaiset alkoivat huomaamaan että rahaa oli yllinkyllin, enemmän kuin elämiseen oli tarpeellista. Yritykset ja kansalaiset alkoivat sijoittaa ylimääräisen rahan epä-produktiivisesti, tuottoja odottaen. Niin kauan kun rahaa käytännössä pakkolainattiin liikaa, talouskupla kasvoi ja epäproduktiivisesti sijoitettu raha tuotti suuria voittoja.
+
+Kun kupla oli riittävän suuri, keskuspankki laittoi rahahanat kiinni ja paikallispankit eivät enää lainanneet rahaa. Tästä alkoi Japanin talousromahdus, jonka verukkeella valtion kontrolli rahapolitiikkaan saatiin poistettua lopullisesti.
 
 ## Kivijalkapankkien määrä rajussa laskussa:
 
@@ -48,3 +50,11 @@ https://yle.fi/a/3-11760096
 
 https://pankkiasiat.fi/pankit-suomessa-katsaus-suomessa-toimiviin-pankkeihin
 
+
+## Rahapolitiikka Suomessa ja EU:ssa
+
+Valtiolle olisi lähes välttämätöntä että sillä on kontrolli omaan valuuttaansa, että voisi vaikuttaa talouskasvun suuntaan. Se joka määrittää rahapolitiikkaa, määrittää koko valtion tulevaisuuden.
+
+EU ja yhteinen euro on ollut erinomainen tapa poistaa valtioilta kontrolli heidän omaan talouteensa. Finanssipolitiikka, eli se miten valtio käyttää olemassa olevaa rahaa, on käytännössä hiekkalaatikkoleikkiä, jossa ei ole määräämisvaltaa siihen kuinka paljon laatikosta löytyy hiekkaa.
+
+Kun Suomi liittyi osaksi EU:ta, ei Suomessa käyty kansanäänestystä ollenkaan euroon siirtymisestä, kun taas Ruotsissa kansanäänestys käytiin. Jos äänestys olisi käyty
