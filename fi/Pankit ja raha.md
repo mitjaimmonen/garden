@@ -89,15 +89,17 @@ Se, että valtio myy omistuksiaan ulkomaille, yksityistää palveluita ja ottaa 
 
 Olen itse yrittänyt miettiä, kuinka Suomi voisi vaikuttaa omaan talouden tilaansa, vaikka rahapolitiikkaa täällä ei suoranaisesti enää ole. Jos ymmärrän nyt riittävästi rahan toimintatavoista, mielestäni nykyisessä tilanteessamme olisi välttämätöntä transformoida Suomi vientivoittoiseksi maaksi, jossa pienyrityksille on matala kynnys kukoistaa.
 
-Talouden korjaamiseen on mielestäni kaksi tavoitetta: 
+Talouden korjaamiseen on mielestäni kaksi toisistaan hyvin eroavaa tavoitetta: 
 1. Suomen talouden vahvuuden säilyttäminen ja lisääminen verrattuna muihin maihin
 2. Suomen valtion ja kansalaisten hyvinvointi sisäisesti
 
-Ensimmäinen tavoite saavutetaan olemalla vientivoittoinen maa. Lainoja, eli rahaa, luodaan hitaammalla tahdilla kuin ulkomaista rahaa rantautuu Suomeen.
+Ensimmäinen tavoite saavutetaan olemalla vientivoittoinen maa. Lainoja, eli rahaa, luodaan hitaammalla tahdilla kuin ulkomaista rahaa rantautuu Suomeen. Kuten aiemmin kävi ilmi, raha luodaan aina pankkilainoilla, mutta jos Suomi ei ole vientivoittoinen maa, se tarkoittaa että kokonaislainojen määrä suhteutettuna tuottoihin kasvaa ja maa köyhtyy.
 
-Kun rahaa tuodaan ulkomailta, oli se sitten euroja tai muuta valuuttaa, Suomen talouden kokonaislainan määrä vähenee, sillä se siirtyy maihin johon tuotteita viedään. Tällä tavoin kun paikallispankit rahoittavat pienyrityksiä ja produktiivisuutta, lainan määrä ei silti kasva räjähdysmäisesti, sillä tuontimaat rahoittaisivat suomalaiset lainat.
+Toinen tavoite, eli hyvinvointivaltion ylläpito ja kehittäminen, ei välttämättä vaadi vientivoittoisuutta. Valtion sisäinen hyvinvointi saadaan aikaan edistämällä pienyrittäjyyttä ja luomalla työpaikkoja tarjoamalla uusille ja pienille yrityksille helpommin rahaa lainojen muodossa.
 
-Kun Suomen lainsäädäntö sallisi ja kannustaisi pienpankkien perustamiseen ja pienpankkien lainojen myöntämiseen vahvemmin, se aiheuttaisi positiivisen ketjureaktion. Pienpankit lainaavat uusille yrittäjille, yritykset lisääntyy, tuottavat yritykset luovat työpaikkoja, kansalaiset vaurastuvat ja kulutusluotot vähenevät. Inflaatio ja tuotteiden hinta ei lähde käsistä, kun lainaaminen ei lähde käsistä.
+Kun rahaa tuodaan ulkomailta, oli se sitten euroja tai muuta valuuttaa, Suomen talouden kokonaislainan määrä vähenee, sillä lainataakka siirtyy maihin johon tuotteita viedään. Tällä tavoin kun paikallispankit rahoittavat pienyrityksiä ja produktiivisuutta, lainan määrä suhteutettuna ei silti kasva räjähdysmäisesti, sillä tuontimaat rahoittaisivat suomalaiset lainat.
+
+Kun Suomen lainsäädäntö kannustaisi pienpankkien perustamiseen ja pienpankkien lainojen myöntämiseen vahvemmin, se aiheuttaisi positiivisen ketjureaktion. Pienpankit lainaavat uusille yrittäjille, yritykset lisääntyy, tuottavat yritykset luovat työpaikkoja, kansalaiset vaurastuvat ja kulutusluotot vähenevät. Inflaatio ja tuotteiden hinta ei lähde käsistä, kun lainaaminen ei lähde käsistä.
 
 Kun kansalaisille riittää työpaikkoja ja yrityksille riittää rahaa, palkat nousevat ja valtion tulot nousevat. Kun valtion tulot nousevat, on vähemmän tarvetta valtion kulutusluotolle.
 
