@@ -24,10 +24,20 @@ https://yle.fi/a/3-11760096
 https://pankkiasiat.fi/pankit-suomessa-katsaus-suomessa-toimiviin-pankkeihin
 
 
-## Paikallispankkien tärkeys talouskasvulle
+## Raha ja pankit
 
-Professori Richard Werner on kirjoittanut kirjan Princes of the Yen ja mm. suunnitellut setelirahoitustoiminnan (aka. Quantitative Easing).
+Professori Richard Werner on kirjoittanut kirjan Princes of the Yen ja mm. suunnitellut setelirahoitustoiminnan (Quantitative Easing).
 
-Hänen tutkimuksensa siitä miten pankit toimivat ja miten esimerkiksi Kansainvälinen valuuttarahasto IMF 
+Hänen tutkimuksensa siitä miten pankit toimivat ja miten esimerkiksi Kansainvälinen valuuttarahasto IMF toimii pienten valtioiden kehityksen vastaisesti, ovat melko kiisteltyä kamaa.
 
+**Miksi paikallispankit ovat tärkeitä talouskasvulle? Haastattelu Richard Wernerin ja pankkiöyskyrin kanssa:**
 https://www.youtube.com/watch?v=EC0G7pY4wRE
+
+**Voiko pankit luoda rahaa tyhjästä? (paikallispankit jotka eivät ole keskuspankkeja) | kyllä:**
+https://www.sciencedirect.com/science/article/pii/S1057521914001070?via%3Dihub
+
+**Princes of the yen, pikkudokkari:**
+https://youtu.be/p5Ac7ap_MAY?feature=shared
+
+Dokumentti käy läpi kuinka IMF pyrkii estämään Itä-Aasian valtioiden vahvan talouskasvun, kuinka Japanin keskuspankki on Yhdysvaltojen tossun alla ja kuinka keskuspankki voi mielivaltaisesti vaikuttaa talouskasvuun ja talouden supistukseen.
+
