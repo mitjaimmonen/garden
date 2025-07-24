@@ -53,7 +53,24 @@ https://pankkiasiat.fi/pankit-suomessa-katsaus-suomessa-toimiviin-pankkeihin
 
 ## Rahapolitiikka Suomessa ja EU:ssa
 
-Valtiolle olisi lähes välttämätöntä että sillä on kontrolli omaan valuuttaansa, että voisi vaikuttaa talouskasvun suuntaan. Se joka määrittää rahapolitiikkaa, määrittää koko valtion tulevaisuuden.
+Alla oleva teksti on ajatuspohjaista, ja koska argumenteille ei ole lähteitä, voidaan ne lukea myös mielipiteinä. Olen hankkinut yleisen tason ymmärrykseni vahvimmin seuraavista lähteistä:
+
+*Princes of the Yen - Japan's Central Bankers and the Transformation of the Economy*
+*Richard A. Werner*
+
+*23 Things They Don't Tell You About Capitalism*
+*Ha-joon Chang*
+
+*The Dollar Endgame*
+Peruvian Bull
+
+*Youtube: Werner Economics*
+*Richard A. Werner*
+
+*Youtube Garys Economics*
+
+
+Valtiolle olisi lähes välttämätöntä, että sillä on kontrolli omaan valuuttaansa, että voisi vaikuttaa talouskasvun suuntaan. Se joka määrittää rahapolitiikkaa, määrittää koko valtion tulevaisuuden.
 
 EU ja yhteinen euro on ollut erinomainen tapa poistaa valtioilta kontrolli heidän omaan talouteensa. Finanssipolitiikka, eli se miten valtio käyttää olemassa olevaa rahaa, on käytännössä hiekkalaatikkoleikkiä, jossa ei ole määräämisvaltaa siihen kuinka paljon laatikosta löytyy hiekkaa.
 
