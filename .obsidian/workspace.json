@@ -181,15 +181,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "230cca1d85386c3c",
+        "id": "f5668a53b46c00ce",
         "type": "window",
         "children": [
           {
-            "id": "fbf41755d03d2b99",
+            "id": "6241071434a025f6",
             "type": "tabs",
             "children": [
               {
-                "id": "d0a8abe35fa52428",
+                "id": "976d04e6753b5936",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -215,7 +215,7 @@
       }
     ]
   },
-  "active": "d0a8abe35fa52428",
+  "active": "976d04e6753b5936",
   "lastOpenFiles": [
     "en/Dev/Ideas/One Pagers.md",
     "en/Dev/Ideas/Bitti/Bitti UX.md",
