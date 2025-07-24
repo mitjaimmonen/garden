@@ -28,7 +28,7 @@ Artikkeli käy läpi kolme erilaista teoriaa siitä miten pankit toimivat ja mit
 **Princes of the yen, pikkudokkari:**
 https://youtu.be/p5Ac7ap_MAY
 
-Dokumentti käy läpi kuinka IMF pyrkii estämään Itä-Aasian valtioiden vahvan talouskasvun, kuinka Japanin keskuspankki on Yhdysvaltojen tossun alla ja kuinka keskuspankki voi mielivaltaisesti vaikuttaa talouskasvuun ja talouden supistukseen.
+Dokumentti käy läpi kuinka IMF pyrkii estämään Itä-Aasian valtioiden vahvan talouskasvun, kuinka Japanin keskuspankki on Yhdysvaltojen tossun alla ja kuinka keskuspankki voi mielivaltaisesti vaikuttaa talouskasvuun ja -laskuun.
 
 Se kuinka Japanissa luotiin vahva kasvukausi, oli yksinomaan pankkijärjestelyn ansiota. Japanin keskuspankki määritti pienemmille pankeille kuinka paljon lainaa on tarjottava. Pienemmät pankit taas niitä pienemmille, kunnes lopputulos oli että keskuspankin määräämä lainojen määrä toteutui mahdollisimman tarkasti. Tämän lisäksi, keskuspankki määräsi mille sektoreille lainaa tulee myöntää. Kun lainaa myönnettiin ainoastaan tietynlaisiin produktiivisiin tarkoituksiin, talous kasvoi niin vahvasti, että Japanista tuli vientimaa, samalla kun kansalaisten elintaso pidettiin toissijaisena.
 
@@ -62,7 +62,7 @@ Alla oleva teksti on ajatuspohjaista, ja koska argumenteille ei ole lähteitä, 
 *Ha-joon Chang*
 
 *Kirja/kokoelma: The Dollar Endgame*
-Peruvian Bull
+*Peruvian Bull*
 
 *Youtube: Werner Economics*
 *Richard A. Werner*
@@ -72,6 +72,8 @@ Peruvian Bull
 
 
 ---
+
+**Oman valuutan tärkeys**
 
 Valtiolle olisi lähes välttämätöntä, että sillä on kontrolli omaan valuuttaansa, että voisi vaikuttaa talouskasvun suuntaan. Se joka määrittää rahapolitiikkaa, määrittää koko valtion tulevaisuuden.
 
@@ -83,7 +85,8 @@ Euroopan keskuspankki on musta laatikko, jonka sisällä käytäviä neuvotteluj
 
 Se, että valtio myy omistuksiaan ulkomaille, yksityistää palveluita ja ottaa valtionlainaa ylläpitääkseen hyvinvointivaltiota on karhunpalvelus taloudelle. Valtionlaina on pahimmanlaatuinen kulutusluotto.
 
----
+
+**Suomi on taantumassa**
 
 Olen itse yrittänyt miettiä, kuinka Suomi voisi vaikuttaa omaan talouden tilaansa, vaikka rahapolitiikkaa täällä ei suoranaisesti enää ole. Jos ymmärrän nyt riittävästi rahan toimintatavoista, mielestäni nykyisessä tilanteessamme olisi välttämätöntä transformoida Suomi vientivoittoiseksi maaksi, jossa pienyrityksille on matala kynnys kukoistaa.
 
