@@ -15,6 +15,7 @@ Yleisesti kaikki produktiivisuuteen ja devailuun liittyvä on englanniksi ja vap
 [[Linkkiverkko]]
 [[Pankit ja raha]]
 
+---
 # Garden
 
 Here you can find all sorts of ramblings both in Finnish and in English.

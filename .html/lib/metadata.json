@@ -1,6 +1,6 @@
 {
   "vaultName": "Puutarha ",
-  "lastExport": 1753375453306,
+  "lastExport": 1753376024732,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-ribbon",
   "useCustomHeadContent": false,
@@ -61,181 +61,181 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 8313,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 390,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "en/Dev/Flutter/Code generation.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 883,
       "exportedPath": "en/dev/flutter/code-generation.html",
       "dependencies": []
     },
     "en/Dev/Git/Clean up.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 405,
       "exportedPath": "en/dev/git/clean-up.html",
       "dependencies": []
     },
     "en/Dev/Git/Hooks.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 919,
       "exportedPath": "en/dev/git/hooks.html",
       "dependencies": []
     },
     "en/Dev/Ideas/Bitti/Bitti notes.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 1201,
       "exportedPath": "en/dev/ideas/bitti/bitti-notes.html",
       "dependencies": []
     },
     "en/Dev/Ideas/Bitti/Bitti plan.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 952,
       "exportedPath": "en/dev/ideas/bitti/bitti-plan.html",
       "dependencies": []
     },
     "en/Dev/Ideas/Bitti/Bitti UX.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 226669,
       "exportedPath": "en/dev/ideas/bitti/bitti-ux.html",
       "dependencies": []
     },
     "en/Dev/Ideas/One Pagers.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 9216,
       "exportedPath": "en/dev/ideas/one-pagers.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1753375453306,
-      "sourceSize": 903,
+      "modifiedTime": 1753376024732,
+      "sourceSize": 907,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "fi/Linkkiverkko.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 785,
       "exportedPath": "fi/linkkiverkko.html",
       "dependencies": []
     },
     "fi/Pankit ja raha.md": {
-      "modifiedTime": 1753375453306,
+      "modifiedTime": 1753376024732,
       "sourceSize": 11223,
       "exportedPath": "fi/pankit-ja-raha.html",
       "dependencies": []
