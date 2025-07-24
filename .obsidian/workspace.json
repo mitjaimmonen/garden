@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fi/Lukemista/Pankit.md",
+                "file": "fi/Lukemista/Pankit ja raha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pankit"
+              "title": "Pankit ja raha"
             }
           }
         ]
@@ -179,7 +179,7 @@
   "active": "583855e022bfb1e3",
   "lastOpenFiles": [
     "Templates/garden template.md",
-    "fi/Lukemista/Pankit.md",
+    "fi/Lukemista/Pankit ja raha.md",
     "fi/Listat/Videolista.md",
     "Templates",
     "fi/Listat/Linkkiverkko.md",

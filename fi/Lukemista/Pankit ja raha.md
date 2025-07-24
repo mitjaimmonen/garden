@@ -2,7 +2,7 @@
 Planted: 2025-07-24
 Tended: 2025-07-24
 ---
-# Pankit
+# Pankit ja raha
 
 *Istutettu: `= this.Planted`*
 *Hoidettu: `= this.Tended`*
@@ -26,7 +26,7 @@ https://www.sciencedirect.com/science/article/pii/S1057521914001070?via%3Dihub
 Artikkeli käy läpi kolme erilaista teoriaa siitä miten pankit toimivat ja miten raha luodaan. Tutkijat tekevät testin paikallispankin kanssa jossa luodaan laina ja katsotaan mistä raha tulee pankkitilille. Lopputulos on se että vaikka pankki on paikallispankki, jolla ei ole suoraa vaikutusvaltaa rahapolitiikkaan, valuutan luominen tapahtuu ns. tyhjästä.
 
 **Princes of the yen, pikkudokkari:**
-https://youtu.be/p5Ac7ap_MAY?feature=shared
+https://youtu.be/p5Ac7ap_MAY
 
 Dokumentti käy läpi kuinka IMF pyrkii estämään Itä-Aasian valtioiden vahvan talouskasvun, kuinka Japanin keskuspankki on Yhdysvaltojen tossun alla ja kuinka keskuspankki voi mielivaltaisesti vaikuttaa talouskasvuun ja talouden supistukseen.
 
@@ -39,7 +39,7 @@ Kun kupla oli riittävän suuri, keskuspankki laittoi rahahanat kiinni ja paikal
 ## Kivijalkapankkien määrä rajussa laskussa:
 
 *Kivijalkapankkien määrä puolittui Suomessa 2000-luvulla – Finanssivalvonta: Jos tahti kiihtyy, voidaan tarvita tarkempaa lainsäädäntöä*
-*28.1.2021 18:27*
+*28.1.2021*
 
 https://yle.fi/a/3-11760096
 
@@ -55,20 +55,25 @@ https://pankkiasiat.fi/pankit-suomessa-katsaus-suomessa-toimiviin-pankkeihin
 
 Alla oleva teksti on ajatuspohjaista, ja koska argumenteille ei ole lähteitä, voidaan ne lukea myös mielipiteinä. Olen hankkinut yleisen tason ymmärrykseni vahvimmin seuraavista lähteistä:
 
-*Princes of the Yen - Japan's Central Bankers and the Transformation of the Economy*
+*Kirja: Princes of the Yen - Japan's Central Bankers and the Transformation of the Economy*
 *Richard A. Werner*
 
-*23 Things They Don't Tell You About Capitalism*
+*Kirja: 23 Things They Don't Tell You About Capitalism*
 *Ha-joon Chang*
 
-*The Dollar Endgame*
+*Kirja/kokoelma: The Dollar Endgame*
 Peruvian Bull
 
 *Youtube: Werner Economics*
 *Richard A. Werner*
 
-*Youtube Garys Economics*
+*Youtube: Garys Economics*
+*Gary Stevenson*
 
+*Kirja: The age of surveillance capitalism*
+*Shoshana Zuboff*
+
+---
 
 Valtiolle olisi lähes välttämätöntä, että sillä on kontrolli omaan valuuttaansa, että voisi vaikuttaa talouskasvun suuntaan. Se joka määrittää rahapolitiikkaa, määrittää koko valtion tulevaisuuden.
 
@@ -76,16 +81,21 @@ EU ja yhteinen euro on ollut erinomainen tapa poistaa valtioilta kontrolli heid�
 
 Kun Suomi liittyi osaksi EU:ta, ei Suomessa käyty kansanäänestystä ollenkaan euroon siirtymisestä, kun taas Ruotsissa kansanäänestys käytiin. Jos äänestys olisi käyty, meillä olisi todennäköisesti edelleen valta omaan talouteemme, kuten Ruotsilla edelleen on.
 
-Euroopan keskuspankki on musta laatikko, jonka sisällä käytäviä neuvotteluja ei saa edes euroopan parlamentti tietää. EKP määrittää koko EU alueen rahapolitiikan ja siten vaikuttaa jokaisen maan talouskasvuun vahvasti. Se että mikä puolue on vahvimmillaan vaikka Suomen hallituksessa, ei ole juuri merkitystä siihen mikä työttömyysaste tai hyvinvointivaltion tila on. Kärjistettynä, jos rahaa on paljon, hyvinvointia on paljon, ja toisin päin. Tietenkin se raha mikä luodaan lainoilla on oltava produktiivista, muuten rahan määrä vaikuttaa suoraan inflaation määrään, joka puolestaan talouden tilaan.
+Euroopan keskuspankki on musta laatikko, jonka sisällä käytäviä neuvotteluja ei saa edes euroopan parlamentti tietää. EKP määrittää koko EU alueen rahapolitiikan ja siten vaikuttaa jokaisen maan talouskasvuun vahvasti. Se että mikä puolue on vahvimmillaan vaikka Suomen hallituksessa, ei ole juuri merkitystä siihen mikä työttömyysaste tai hyvinvointivaltion tila on. Kärjistettynä, jos rahaa on paljon, hyvinvointia on paljon, ja toisin päin. Tietenkin se raha mikä luodaan lainoilla on oltava tuotollista, muuten rahan määrä vaikuttaa suoraan inflaation määrään, joka puolestaan talouden tilaan.
 
-Se, että valtio myy omistuksiaan ulkomaille, yksityistää palveluita ja ottaa valtionlainaa ylläpitääkseen hyvinvointivaltiota on kamala karhunpalvelus taloudelle. Valtionlaina on pahimmanlaatuinen kulutusluotto.
+Se, että valtio myy omistuksiaan ulkomaille, yksityistää palveluita ja ottaa valtionlainaa ylläpitääkseen hyvinvointivaltiota on karhunpalvelus taloudelle. Valtionlaina on pahimmanlaatuinen kulutusluotto.
 
 ---
 
-Olen itse yrittänyt miettiä, kuinka Suomi voisi vaikuttaa omaan talouden tilaansa, vaikka rahapolitiikkaa täällä ei suoranaisesti enää ole. Jos ymmärrän nyt riittävästi rahan toimintatavoista, mielestäni nykyisessä tilanteessamme olisi välttämätöntä transformoida Suomi vientivoittoiseksi maaksi. 
+Olen itse yrittänyt miettiä, kuinka Suomi voisi vaikuttaa omaan talouden tilaansa, vaikka rahapolitiikkaa täällä ei suoranaisesti enää ole. Jos ymmärrän nyt riittävästi rahan toimintatavoista, mielestäni nykyisessä tilanteessamme olisi välttämätöntä transformoida Suomi vientivoittoiseksi maaksi, jossa pienyrityksille on matala kynnys.
 
 Kun rahaa tuodaan ulkomailta, oli se sitten euroja tai muuta valuuttaa, Suomen talouden kokonaislainan määrä vähenee, sillä se siirtyy maihin johon tuotteita viedään. Tällä tavoin kun paikallispankit rahoittavat pienyrityksiä ja produktiivisuutta, lainan määrä ei silti kasva räjähdysmäisesti, sillä tuontimaat rahoittaisivat suomalaiset lainat.
 
 Kun Suomen lainsäädäntö sallisi ja kannustaisi pienpankkien perustamiseen ja pienpankkien lainojen myöntämiseen vahvemmin, se aiheuttaisi positiivisen ketjureaktion. Pienpankit lainaavat uusille yrittäjille, yritykset lisääntyy, tuottavat yritykset luovat työpaikkoja, kansalaiset vaurastuvat ja kulutusluotot vähenevät. Inflaatio ja tuotteiden hinta ei lähde käsistä, kun lainaaminen ei lähde käsistä.
 
 Kun kansalaisille riittää työpaikkoja ja yrityksille riittää rahaa, palkat nousevat ja valtion tulot nousevat. Kun valtion tulot nousevat, on vähemmän tarvetta valtion kulutusluotolle.
+
+
+## All my homies hate digitaalinen keskuspankkiraha
+
+Jo vuodesta 2021 kun kiinnostuin lukemaan enemmän kapitalismin ja rahan toiminnasta maailman talouksissa
