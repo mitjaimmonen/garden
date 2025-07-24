@@ -1,6 +1,6 @@
 ---
 Planted: 2025-01-14
-Tended: 2025-07-22
+Tended: 2025-07-24
 ---
 # Bitti notes
 

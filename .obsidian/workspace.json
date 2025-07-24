@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "fi/Pankit ja raha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Pankit ja raha"
             }
           }
         ]
@@ -178,10 +178,14 @@
   },
   "active": "cf2bdcb6905aa318",
   "lastOpenFiles": [
-    "fi/Linkkiverkko.md",
     "index.md",
-    "en/Dev/Ideas/One Pagers.md",
     "fi/Pankit ja raha.md",
+    "fi/Linkkiverkko.md",
+    "en/Dev/Ideas/One Pagers.md",
+    "en/Dev/Ideas/Bitti/Bitti UX.md",
+    "en/Dev/Ideas/Bitti/Bitti notes.md",
+    "en/Dev/Git/Hooks.md",
+    "en/Dev/Flutter/Code generation.md",
     "Templates/garden template.md",
     "fi/Listat/Videolista.md",
     "fi/Listat/Lukulista.md",
@@ -190,12 +194,8 @@
     "fi/Lukemista",
     "fi/Ajatuksia/Puutarha.md",
     "Excalidraw",
-    "en/Dev/Ideas/Bitti/Bitti UX.md",
     "en/Dev/Ideas/Bitti/Bitti plan.md",
-    "en/Dev/Ideas/Bitti/Bitti notes.md",
-    "en/Dev/Git/Hooks.md",
     "en/Dev/Git/Clean up.md",
-    "en/Dev/Flutter/Code generation.md",
     "fi/Listat",
     "New folder",
     "en/Dev/Ideas/Tyyni/Tyyni plan.md",
