@@ -1,6 +1,6 @@
 ---
 Planted: 2025-07-24
-Tended: 2025-07-24
+Tended: 2025-07-25
 ---
 # Pankit ja raha
 
@@ -115,7 +115,7 @@ Keskuspankki voi määrätä mielivaltaisesti mihin rahaa tulisi käyttää ja m
 
 Tietenkin kaikki me olemme riittävän hyväuskoisia että emme voi kuvitella EU:lla olevan totalitaarista tulevaisuutta, mutta digieuro antaa sille tulevaisuudelle mahdollisuuden. Ei voida tietää mitä oikeasti tapahtuu, mutta itse en haluaisi edes mahdollisuutta tällaiselle tulevaisuudelle.
 
-Hiljattain tapahtunut hyvä esimerkki siitä mitä tällainen kontrolli voi tuoda tullessaan on Visan ja Mastercardin valta päättää mitä siirtoja heidän maksuvälityksen kautta sallitaan. Steam ja OnlyFans ovat kokeneet tämän kontrollin. Steam joutui tänä kesänä poistamaan useita pornografisia pelejä kokonaan alustaltaan, sillä Visa ja Mastercard uhkasivat estää maksunvälityksen koko Steam-alustalla jos pelejä ei poistettaisi.
+Hiljattain tapahtunut hyvä esimerkki siitä mitä tällainen kontrolli voi tuoda tullessaan on Visan ja Mastercardin valta päättää mitä siirtoja heidän maksuvälityksen kautta sallitaan. Steam ja Itch io ovat kokeneet tämän kontrollin. Steam joutui tänä kesänä poistamaan useita pornografisia pelejä kokonaan alustaltaan, sillä Visa ja Mastercard uhkasivat estää maksunvälityksen koko Steam-alustalla jos pelejä ei poistettaisi. Itch io puolestaan joutui poistamaan kaikki "nsfw" pelit alustaltaan.
 
 
 ## Laki luottolaitostoiminnasta
