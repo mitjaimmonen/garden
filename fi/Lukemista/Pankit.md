@@ -61,4 +61,14 @@ Kun Suomi liittyi osaksi EU:ta, ei Suomessa käyty kansanäänestystä ollenkaan
 
 Euroopan keskuspankki on musta laatikko, jonka sisällä käytäviä neuvotteluja ei saa edes euroopan parlamentti tietää. EKP määrittää koko EU alueen rahapolitiikan ja siten vaikuttaa jokaisen maan talouskasvuun vahvasti. Se että mikä puolue on vahvimmillaan vaikka Suomen hallituksessa, ei ole juuri merkitystä siihen mikä työttömyysaste tai hyvinvointivaltion tila on. Kärjistettynä, jos rahaa on paljon, hyvinvointia on paljon, ja toisin päin. Tietenkin se raha mikä luodaan lainoilla on oltava produktiivista, muuten rahan määrä vaikuttaa suoraan inflaation määrään, joka puolestaan talouden tilaan.
 
-Olen itse yrittänyt miettiä, kuinka Suomi voisi vaikuttaa omaan talouden tilaansa, vaikka rahapolitiikkaa ei suoranaisesti enää ole. Jos ymmärrän nyt riittävästi rahan toimintatavoista, mielestäni nykyisessä tilanteessamme olisi välttämätöntä transformoida Suomi vientivoittoiseksi maaksi. Kun rahaa tuodaan ulkomailta, oli se sitten euroja tai muuta valuuttaa, Suomen talouden kokonaislainamäärä vähenee, sillä se siirtyy maihin johon tuotteita viedään. Tällä tavoin kun paikallispankit rahoittavat pienyrityksiä ja produktiivisuutta, lainan määrä ei silti kasva räjähdysmäisesti.
+Se, että valtio myy omistuksiaan ulkomaille, yksityistää palveluita ja ottaa valtionlainaa ylläpitääkseen hyvinvointivaltiota on kamala karhunpalvelus taloudelle. Valtionlaina on pahimmanlaatuinen kulutusluotto.
+
+---
+
+Olen itse yrittänyt miettiä, kuinka Suomi voisi vaikuttaa omaan talouden tilaansa, vaikka rahapolitiikkaa täällä ei suoranaisesti enää ole. Jos ymmärrän nyt riittävästi rahan toimintatavoista, mielestäni nykyisessä tilanteessamme olisi välttämätöntä transformoida Suomi vientivoittoiseksi maaksi. 
+
+Kun rahaa tuodaan ulkomailta, oli se sitten euroja tai muuta valuuttaa, Suomen talouden kokonaislainan määrä vähenee, sillä se siirtyy maihin johon tuotteita viedään. Tällä tavoin kun paikallispankit rahoittavat pienyrityksiä ja produktiivisuutta, lainan määrä ei silti kasva räjähdysmäisesti, sillä tuontimaat rahoittaisivat suomalaiset lainat.
+
+Kun Suomen lainsäädäntö sallisi ja kannustaisi pienpankkien perustamiseen ja pienpankkien lainojen myöntämiseen vahvemmin, se aiheuttaisi positiivisen ketjureaktion. Pienpankit lainaavat uusille yrittäjille, yritykset lisääntyy, tuottavat yritykset luovat työpaikkoja, kansalaiset vaurastuvat ja kulutusluotot vähenevät. Inflaatio ja tuotteiden hinta ei lähde käsistä, kun lainaaminen ei lähde käsistä.
+
+Kun kansalaisille riittää työpaikkoja ja yrityksille riittää rahaa, palkat nousevat ja valtion tulot nousevat. Kun valtion tulot nousevat, on vähemmän tarvetta valtion kulutusluotolle.
