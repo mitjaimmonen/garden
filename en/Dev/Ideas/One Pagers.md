@@ -1,6 +1,6 @@
 ---
 Planted: 2025-01-14
-Tended: 2025-07-22
+Tended: 2025-07-25
 ---
 # One Pagers
 
@@ -320,3 +320,9 @@ Build a USB hub that actually works. The hub would support 2 screens, power pass
 ## Simple Camera
 
 Camera that has no ui by default and works with gestures.
+
+---
+
+## Epaper store
+
+A local store in Finland that has authorization to sell various e-ink devices, such as Supernote, Boox, Kobo, Pocketbook, Mudita, Minimal phone.
