@@ -326,3 +326,9 @@ Camera that has no ui by default and works with gestures.
 ## Epaper store
 
 A local store in Finland that has authorization to sell various e-ink devices, such as Supernote, Boox, Kobo, Pocketbook, Mudita, Minimal phone.
+
+https://www.kobo.com/retailpartners
+https://supernote.com/pages/authorized-sellers
+https://pocketbook.fi/fi-fi/for-business-fi
+https://euroshop.boox.com/pages/business-1
+https://mudita.com/for-retailers/
