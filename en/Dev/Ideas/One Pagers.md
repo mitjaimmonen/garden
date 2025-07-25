@@ -333,3 +333,6 @@ https://pocketbook.fi/fi-fi/for-business-fi
 https://euroshop.boox.com/pages/business-1
 https://mudita.com/for-retailers/
 https://minimalcompany.com/pages/contact-us
+
+Advocating digital minimalism, privacy and simplicity online as part of the marketing.
+The web services could include apps such as Bitti for habit keeping, guides for a lifestyle without attachment to smart devices or social media.
