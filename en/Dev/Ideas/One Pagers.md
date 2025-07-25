@@ -332,3 +332,4 @@ https://supernote.com/pages/authorized-sellers
 https://pocketbook.fi/fi-fi/for-business-fi
 https://euroshop.boox.com/pages/business-1
 https://mudita.com/for-retailers/
+https://minimalcompany.com/pages/contact-us
