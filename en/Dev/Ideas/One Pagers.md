@@ -1,6 +1,6 @@
 ---
 Planted: 2025-01-14
-Tended: 2025-07-25
+Tended: 2025-07-28
 ---
 # One Pagers
 
@@ -336,3 +336,14 @@ https://minimalcompany.com/pages/contact-us
 
 Advocating digital minimalism, privacy and simplicity online as part of the marketing.
 The web services could include apps such as Bitti for habit keeping, guides for a lifestyle without attachment to smart devices or social media.
+
+
+---
+
+## Mielipideblogi
+
+Tuo esiin ajatuksia ja aktivismia aiheista mitkä koskettaa.
+
+
+---
+
