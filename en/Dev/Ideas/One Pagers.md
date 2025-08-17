@@ -1,6 +1,6 @@
 ---
 Planted: 2025-01-14
-Tended: 2025-07-28
+Tended: 2025-08-17
 ---
 # One Pagers
 
@@ -347,3 +347,6 @@ Tuo esiin ajatuksia ja aktivismia aiheista mitkä koskettaa.
 
 ---
 
+## Kopiopiste pienille artisteille
+
+Kopiopiste josta voi tilata kortteja ja muita painotuotteita niin että joka kopiolla voi olla eri kuva ja lopullinen hinta muodostuu kopioiden määrästä.
